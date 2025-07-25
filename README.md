@@ -1,5 +1,3 @@
-Here is the comprehensive React Fundamentals lesson, formatted into detailed slides:
-
 -----
 
 # React Fundamentals: Getting Started with Components
