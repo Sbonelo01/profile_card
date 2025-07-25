@@ -443,8 +443,6 @@ We've covered a lot of ground today\! Now, I'd like to open the floor for any qu
 
 **What's Next?**
 
-  * **Practice with Props**: Use online tools like CodeSandbox or StackBlitz (as mentioned in the original `session4.html` for practice) to create simple components and pass different props to them. Experiment with various data types.
+  * **Practice with Props**: Use online tools like CodeSandbox or StackBlitz to create simple components and pass different props to them. Experiment with various data types.
   * **Review**: Revisit the concepts we discussed today.
   * **Prepare for State**: The concept of State is central to building interactive React applications. A basic understanding of JavaScript objects and functions will be helpful.
-
-Thank you for your active participation today\! I look forward to continuing our React journey in the next session where we'll explore State.
